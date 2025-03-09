@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="button_1">Развернуть</string>
+    <string name="button_2">Решафл</string>
+    <string name="button_3">Очистить</string>
 </resources>
